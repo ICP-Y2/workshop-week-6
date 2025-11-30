@@ -1,6 +1,6 @@
 # workshop-week-6
 `Simulate a system with the specified conditions in Wokwi.`
-### 1.	Write a short DHT22 sensor?
+### 1.	Write a short note on DHT22 sensor.
 ```
 MENTION ITS USAGE
 
@@ -40,7 +40,7 @@ HINT: LOOK FOR CIRCUIT CONNECTION AND PROGRAM SETUP FOR:
 ### 4.	Add Three LEDs: RED, GREEN and YELLOW
 > a.	RED represents Alarm when temp > 40 or humidity < 50.
 > 
-> b.	YELLOW represents Warning when temp > 35 and < 40.
+> b.	YELLOW represents Warning when temp > 35 and humidity < 40.
 > 
 > c.	GREEN when temp < 35 and humidity > 50
 
